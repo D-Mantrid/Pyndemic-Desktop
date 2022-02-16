@@ -1,0 +1,18 @@
+# Import cache
+.import/
+
+# Standard options from Godot official docs
+.mono/
+export_presets.cfg
+*.translation
+
+# Binaries
+bin/
+build/
+lib/
+
+# Git plugin
+addons/godot-git-plugin/
+
+# Temporarily ignore big assets
+assets/
